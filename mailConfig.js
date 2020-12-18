@@ -3,7 +3,7 @@ module.exports = {
     service: 'QQ',
     userName: 'lawz',
     user: '602285510@qq.com',
-    pass: 'azxurnmttxvrbdfa',
+    pass: 'xxxxx',
     // sendEmail: '1205975671@qq.com'
     sendEmail: 'lawzheng@foxmail.com'
 }
